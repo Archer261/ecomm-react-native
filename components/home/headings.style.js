@@ -12,7 +12,7 @@ const styles = ({
         justifyContent: "space-between",
     },
     headerTitle: {
-        fontFamily: "semibold",
+        fontFamily: "semiBold",
         fontSize: SIZES.xLarge - 2,
     }
 })

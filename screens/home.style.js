@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         alignItems: "center"
     },
     location: {
-        fontFamily: "semibold",
+        fontFamily: "semiBold",
         fontSize: SIZES.medium,
         color: COLORS.gray
     },
